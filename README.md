@@ -16,8 +16,7 @@ The notebook demonstrates how to collect stock price data, preprocess it, train 
 2. [Usage](#usage)
 3. [Models](#models)
 4. [Performance Metrics](#performance-metrics)
-5. [Results](#results)
-6. [License](#license)
+5. [License](#license)
 
 ---
 
@@ -87,15 +86,6 @@ The performance of each model is evaluated using the following metrics:
 
 ---
 
-## Results
-
-The notebook includes visualizations of the predictions made by each model:
-
-- **LSTM Predictions vs Actual**: A plot comparing the actual stock prices with the predictions made by the LSTM model.
-- **Prophet Model Forecast**: A plot showing the forecast made by the Prophet model.
-- **ARIMA Forecast**: A plot showing the forecast made by the ARIMA model.
-
----
 
 ## License
 
